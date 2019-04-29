@@ -23,4 +23,7 @@ Learning is constantly understanding, summarizing and updating.
   * 110：前端基础
   * 111：uve
 * 200 开头：表示一些微服务框架，主要是平常开发的应用知识类
+  * 290：服务器
+    * 2900：Tomcat
+    * 2901：Nginx
 * 300 开头：表示一些前沿技术，大数据、人工智能、元宇宙等
